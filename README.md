@@ -1,1 +1,2 @@
-# Agricultural-management-system
+# DBMS-project
+Agricultural management system
